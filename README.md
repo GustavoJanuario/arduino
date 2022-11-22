@@ -1,2 +1,2 @@
-# arduino
-Conteúdo gerado nas aulas de Sistemas Embarcados 
+# arduinoCC
+Códigos e conteúdos relacionados (Sistemas Embarcados)
